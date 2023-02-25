@@ -12,6 +12,7 @@
 Makefile
 .deps/
 .libs/
+.idea/
 *~
 m4/
 TAGS
